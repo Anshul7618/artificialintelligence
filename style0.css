@@ -1,0 +1,231 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Prompt', sans-serif;
+}
+
+nav{
+    width: 100%;
+    height: 15vh;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.3)), url(images/ban.jpg);
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    height: 15vh;
+}
+
+.intro{
+    color: gold;
+    font-size: 125%;
+}
+
+.pt1{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.pt2{
+    margin-top: -8px;
+    margin-left: 65px;
+}
+
+nav ul{
+    padding-top: 3%;
+    align-items: center;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 125%;
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    background-color: lightgrey;
+}
+
+li a.active{
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    background-color: lightgrey;
+}
+
+section{
+    background: rgba(97, 91, 91, 0.068);
+}
+
+.heading{
+    background-image: url(Images/ro.jpg);
+    height: 40vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+}
+
+.part1{
+    font-size: 35px;
+    padding-top: 40px;
+}
+
+.part2{
+    font-size: 25px;
+}
+
+.part3{
+    font-size: 35px;
+}
+
+.heading p{
+    width: 55%;
+    margin: 0px auto;
+    font-size: 18px;
+}
+
+.con{
+    padding: 5px 20px;
+    float: right;
+    width: 25%;
+    background: rgba(183, 202, 200, 0.781);
+}
+
+section h3{
+    font-size: 150%;
+}
+
+section p{
+    font-size: 125%;
+}
+
+.his{
+    margin-left: 10px;
+}
+
+.his h2{
+    font-size: 175%;
+    text-align: center;
+}
+
+.his p{
+    font-size: 125%;
+    margin-top: 15px;
+}
+
+.his table, thead, tbody, td, th, tr{
+    margin-top: 15px;
+    padding: 10px 5px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 105%;
+    background: lightcyan;
+}
+
+.his img{
+    margin-top: 20px;
+    width: 80%;
+    height: 100vh;
+}
+
+.phase1{
+    display: flex;
+    /* margin-bottom: 10px; */
+}
+
+.AI{
+    width: 60%;
+    /* border: 2px solid black; */
+    margin-left: 50px;
+    background: white;
+    padding-left: 15px;
+} 
+
+h2{
+    font-size: 40px;
+    margin: 10px 0px;
+}
+.AI p{
+    width: 800px;
+    padding-top: 10px;
+}
+
+.AI ul{
+    font-size: 20px;
+    padding: 10px 0px;
+    font-weight: bold;
+    padding-left: 20px;
+    width: 780px;
+}
+
+.AI img{
+    width: 90%;
+    height: 60vh;
+    padding: 15px 0px;
+}
+
+.img{
+    padding-top: 10px;
+    padding-left: 15px;
+    width: 30%;
+    background: white;
+}
+
+.img img{
+    width: 100%;
+    height: 50vh;
+}
+
+.AI h3{
+    font-size: 30px;
+    padding: 15px 0px;
+    text-align: center;
+}
+
+.AI ol{
+    font-size: 25px;
+    padding: 10px 0px;
+    font-weight: bold;
+    padding-left: 20px;
+    width: 780px;
+}
+
+.AI h4{
+    padding: 15px 0px;
+    font-size: 30px;
+}
+
+.ai1{
+    margin: 0px auto;
+}
+
+.down{
+    background: gray;
+    width: 100%;
+    height: 21vh;
+    text-align: center;
+}
+
+.down h5{
+    font-size: 25px;
+    padding: 10px 0px;
+}
+
+.down p{
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 0px;
+}
+
+.p{
+    text-align: right;
+}

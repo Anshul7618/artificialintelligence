@@ -1,0 +1,159 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url("Images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    font-size: 30px;
+    margin: 2% 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.p{
+    font-size: 20px;
+}
+.form{
+    width: 65%;
+    margin: 15px 0px;
+}
+
+.a{
+    font-size: 22px;
+    padding: 5px 0px;
+}
+
+.a label{
+    padding-right: 25px;
+}
+
+.a input:hover{
+    cursor: pointer;
+}
+
+.a label:hover{
+    cursor: pointer;
+}
+
+.b{
+  padding: 20px 0px;
+  margin-bottom: 10px;  
+}
+
+.b label{
+    font-size: 25px;
+    padding-right: 5px;
+}
+
+.b input{
+    font-size: 20px;
+    padding: 5px;
+    margin-right: 15px;
+    border: none;
+    outline: none;
+}
+
+.b label:hover{
+    cursor: pointer;
+}
+
+.c{
+    padding: 20px 0px;
+    margin-bottom: 10px;
+}
+
+.c label{
+    font-size: 25px;
+    padding-right: 5px;
+}
+
+.c input{
+    font-size: 20px;
+    padding: 5px;
+    margin-right: 15px;
+    margin-left: 12px;
+    border: none;
+    outline: none;
+}
+
+.c select{
+    font-size: 20px;
+    margin-left: 37px;
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+}
+
+.d label{
+    font-size: 25px;
+    padding-right: 5px;
+}
+
+.d select{
+    font-size: 20px;
+    padding: 5px 0px;
+    border: none;
+    outline: none;
+}
+
+.d input{
+    font-size: 20px;
+    padding: 5px;
+    margin-right: 15px;
+    border: none;
+    outline: none;
+}
+
+.d{
+    padding: 20px 0px;
+    margin-bottom: 10px;  
+}
+
+.e label{
+    display: block;
+    font-size: 25px;
+}
+
+.e textarea{
+    width: 90%;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    padding: 0px 5px;
+    margin: 5px 0px;
+}
+
+.e label:hover{
+    cursor: pointer;
+}
+
+.button{
+    text-align: center;
+}
+
+.button button{
+    font-size: 20px;
+    padding: 5px 15px;
+    margin-bottom: 10px;
+    background: green;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+button:active
+{
+    font-size: 16px;
+}
