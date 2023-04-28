@@ -45,4 +45,10 @@ know={
     "C++" : "C++ is a High-Level Programming Language.<br>Created By - 'Bjarne Stroustrup' Of The 'Bell Laboratories' in '1979'.<br>File Extention - .c++.",
     "java" : "Java Programming Is 'Simple', 'Robust', 'Portable', 'platform-Independent', 'High-Performance' Language.<br>Develop By - James Gosling(Father Of Java) In 1995.<br>Team Name - 'Green Team'.<br>Team Mambers - 'james Gosling(Leader)', 'Mike Sheridan' and 'Patrick Naughton' Initiated Java Project in June 1991.<br>File Extention - .java.",
     "Java" : "Java Programming Is 'Simple', 'Robust', 'Portable', 'platform-Independent', 'High-Performance' Language.<br>Develop By - James Gosling(Father Of Java) In 1995.<br>Team Name - 'Green Team'.<br>Team Mambers - 'james Gosling(Leader)', 'Mike Sheridan' and 'Patrick Naughton' Initiated Java Project in June 1991.<br>File Extention - .java."
-    };
+    "artificial intelligence" : "Artificial intelligence is computer science technology that emphasizes creating intelligent machine that can mimic human behavior. Here Intelligent machines can be defined as the machine that can behave like a human, think like a human, and also capable of decision making. It is made up of two words, 'Artificial' and 'Intelligence,' which means the 'man-made thinking ability'. With artificial intelligence, we do not need to pre-program the machine to perform a task; instead, we can create a machine with the programmed algorithms, and it can work on its own."
+"real world application of AI" : "Google Search Engine.<br>Ridesharing Applications.<br>Spam Filters in Email.<br>Social Networking.<br>Product recommendations."
+"types of AI" : "Based on Capabilities:<br><br>Weak AI or Narrow AI.<br>General AI.<br>Strong AI.<br><br>Based on Functionalities:<br><br>Reactive Machines.<br>Limited Memory.<br>Theory of Mind.<br>Self-Awareness."
+"types of machine learning" : "achine Learning can be mainly divided into three types:<br><br>Supervised Learning.<br>Unsupervised Learning.<br>Reinforcement Learning."
+
+
+};
